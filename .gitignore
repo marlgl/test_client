@@ -1,0 +1,6 @@
+logs
+*.orig
+*.log
+*.class
+data
+bin
